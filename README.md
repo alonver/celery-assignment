@@ -31,7 +31,6 @@ source venv/bin/activate   # On Windows: venv\Scripts\activate
 ```bash  
 pip install -r requirements.txt  
 ```
----  
   
 ### 4. Run the database  
 
